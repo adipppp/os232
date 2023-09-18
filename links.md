@@ -22,3 +22,12 @@ search. This site is what I found.
 This one helped me so much, so I've decided to include this. I frequently look back at this site to
 copy my files from my computer's native OS to Debian. This site is so helpful that I'm currently using
 the `scp` syntax provided by this site to copy this file to Debian.
+
+* [Grep Command Tutorial - How to Search for a File in Linux and Unix with Recursive Find](https://www.freecodecamp.org/news/grep-command-tutorial-how-to-search-for-a-file-in-linux-and-unix/)<br>
+I found this site while I was working on Pop Quiz W02-2. This site helped me understand
+the grep syntax and the usage of its commonly used options.
+
+* [Regular Expressions](https://hbctraining.github.io/Training-modules/Advanced_shell/lessons/03_Regular_expressions.html)<br>
+This one is about regular expressions. What I like about this site is that it also
+explains how to use regex with grep commands. The usage examples also helped me
+memorize the grep syntax and its usage with regular expressions.
