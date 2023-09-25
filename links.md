@@ -31,3 +31,12 @@ the grep syntax and the usage of its commonly used options.
 This one is about regular expressions. What I like about this site is that it also
 explains how to use regex with grep commands. The usage examples also helped me
 memorize the grep syntax and its usage with regular expressions.
+
+* [Mounting and unmounting media using Linux](https://bladecenter.lenovofiles.com/help/index.jsp?topic=%2Fcom.lenovo.bladecenter.mgtmod.doc%2Fkp1bd_t_mounting_media_using_linux.html)
+This website describes how to mount and unmount in Linux, straight to the point.
+
+* [Makefile Tutorial By Example](https://makefiletutorial.com)
+This site explains how to get started with Makefile as well as lots of other
+Makefile features and syntax. This guide makes getting started with Makefile
+feel easy for starters, yet provides off extra information for those searching
+for more Makefile's features.
