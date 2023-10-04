@@ -40,3 +40,7 @@ This site explains how to get started with Makefile as well as lots of other
 Makefile features and syntax. This guide makes getting started with Makefile
 feel easy for starters, yet provides off extra information for those searching
 for more Makefile's features.
+
+* [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/)
+I particularly liked this site because it has a neat `tar` and `xz` cheat sheet
+and its use cases at the end of the web page.
