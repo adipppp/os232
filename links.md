@@ -44,3 +44,5 @@ for more Makefile's features.
 * [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/)
 I particularly liked this site because it has a neat `tar` and `xz` cheat sheet
 and its use cases at the end of the web page.
+
+* [encryption/decryption with multiple keys](https://stackoverflow.com/questions/597188/encryption-decryption-with-multiple-keys)
