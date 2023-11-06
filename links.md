@@ -46,3 +46,17 @@ I particularly liked this site because it has a neat `tar` and `xz` cheat sheet
 and its use cases at the end of the web page.
 
 * [encryption/decryption with multiple keys](https://stackoverflow.com/questions/597188/encryption-decryption-with-multiple-keys)
+This website helped me find the syntax for encrypting my WEEK06.tar.xz file with
+two different GPG keys. Rare Stack Overflow W
+
+* [Scaling - FFmpeg](http://trac.ffmpeg.org/wiki/Scaling)
+While doing POPQUIZ W06-1, I had to post a jpg image that's 640 pixels wide. To convert my png screenshot into jpg, I utilized a command-line tool named FFmpeg. This site is what I found after searching how to scale an image to 640 pixels while preserving the aspect ratio of the image.
+
+* [The exec family of system calls](http://www.it.uu.se/education/course/homepage/os/vt18/module-2/exec/)
+This one is a good read. It explains the various exec system calls that is available in C. The explanation is straightforward and to-the-point, hence I recommend reading this if you want to learn about exec functions.
+
+* [Why Do We Need the fork System Call to Create New Processes](https://www.baeldung.com/linux/fork-child-process)
+Even though this site explains why do programmers use fork to create processes, I particularly liked how the site explained the theories used to support explaining the main topic.
+
+* [How to use mmap function in C language?](https://linuxhint.com/using_mmap_function_linux/)
+This site explains the usage of mmap system call in C. What I liked about this site is that it explains the topic in depth with plenty of example codes to demonstrate the system call's usage.
