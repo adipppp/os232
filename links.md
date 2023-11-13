@@ -60,3 +60,7 @@ Even though this site explains why do programmers use fork to create processes, 
 
 * [How to use mmap function in C language?](https://linuxhint.com/using_mmap_function_linux/)
 This site explains the usage of mmap system call in C. What I liked about this site is that it explains the topic in depth with plenty of example codes to demonstrate the system call's usage.
+
+* [How to use POSIX semaphores in C language](https://www.geeksforgeeks.org/use-posix-semaphores-c/)
+
+* [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
