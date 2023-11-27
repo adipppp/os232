@@ -67,3 +67,9 @@ This site explains the usage of mmap system call in C. What I liked about this s
 
 * [The magic behind configure, make, make install - How it works in Unix](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install)<br>
 While I was following the instructions in the Linux From Scratch book, I realized that to build a package from its source, I had to run the `configure` script, followed by the `make` command, and finally `make install`. Out of curiosity, I did some GSGS and this site is what I found. This site provides a simplified and easy-to-understand explanation of what these commands do.
+
+* [Linux ln – How to Create a Symbolic Link in Linux [Example Bash Command]](https://www.freecodecamp.org/news/linux-ln-how-to-create-a-symbolic-link-in-linux-example-bash-command/)<br>
+In order to do POPQUIZ W09-1, I had to create a symbolic link from `MYzzzSHAREisClean.txt` in my home directory to `/home/zzzSHARE/.zzzW09/MYzzzSHAREisClean.txt`. In order to do that, I did some GSGS and found out that the `ln` command is what I needed. This site explains the basic usage of the `ln` command including how to create a symbolic link.
+
+* [run make install twice](https://unix.stackexchange.com/questions/452779/run-make-install-twice)<br>
+I ran `make install` twice while I was following along the LFS book. I had to know if it messed with my LFS installation.
