@@ -1,3 +1,9 @@
+ZCZC W10 20 L00 General, etc.
+ZCZC W10 120 L01 SCELE related
+ZCZC W10 200 L02 Classroom related
+ZCZC W10 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 60 L09 Weekly Assignments
+ZCZC W10 120 L70 Studying for other courses
 ZCZC W09 20 L00 General, etc.
 ZCZC W09 120 L01 SCELE related
 ZCZC W09 200 L02 Classroom related
